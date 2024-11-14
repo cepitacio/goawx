@@ -1,3 +1,3 @@
-module github.com/denouche/goawx
+module github.com/cepitacio/goawx
 
 go 1.20
